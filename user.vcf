@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Raymond;;;
+FN: Raymond 
+ORG:PT. VIVERE MULTI KREASI;
+TITLE:General Manager, IDEMU Division Head
+EMAIL;type=INTERNET;type=WORK;type=pref:raymond@idemu.com
+TEL;type=WORK;type=VOICE:+6281285004506
+item1.ADR;type=WORK;type=pref:;;Jln. Scientia Beulevard Blok O No. 7 & 8, Gading, Kec. Serpong, Tangerang, Banten 15810
+item1.X-ABADR:id
+item2.URL;type=idemu.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
